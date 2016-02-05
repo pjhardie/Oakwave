@@ -16,8 +16,9 @@ a {
     text-decoration: underline; }
 
 .site-logo img {
-	margin: 0 auto;
-	max-width: 250px;
+    display: block;
+    margin: 0 auto !important;
+    max-width: 200px !important;
 }
 
 .btn {
